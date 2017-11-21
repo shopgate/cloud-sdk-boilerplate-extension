@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "pipeline": {
+    "id": "awesomePipeline_v1",
+    "public": true,
+    "input": [],
+    "output": [],
+    "steps": [
+
+    ]
+  }
+}
