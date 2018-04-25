@@ -1,4 +1,4 @@
-# Shopgate Cloud - Extension Boilerplate
+# Shopgate Connect - Extension Boilerplate
 
 This boilerplate contains all important folders and files which are required for an extension.
 
@@ -6,8 +6,8 @@ This boilerplate contains all important folders and files which are required for
 
 - Replace the `id` property in the file `extension-config.json` with the id of your extension
 - Replace the `version` property in the file `extension-config.json` with version of your wish
-- If you don't need a pipeline, remove the `awesomeOrganization.awesomePipeline.json` in the `pipelines` folder
-- If you want to use a pipelines, modify the `awesomeOrganization.awesomePipeline.json` in the `pipelines` folder and rename it to the new name 
+- If you don't need a pipeline, remove the `awesomeOrganization.awesomePipeline_v1.json` in the `pipelines` folder
+- If you want to use a pipelines, modify the `awesomeOrganization.awesomePipeline_v1.json` in the `pipelines` folder and rename it to the new name 
 
 ## About Shopgate
 
@@ -19,6 +19,6 @@ apps and mobile websites for the iPhone, iPad, Android smartphones and tablets.
 
 ## License
 
-Shopgate Cloud - Extension Boilerplate is available under the Apache License, Version 2.0.
+Shopgate Connect - Extension Boilerplate is available under the Apache License, Version 2.0.
 
 See the [LICENSE](./LICENSE) file for more information.
