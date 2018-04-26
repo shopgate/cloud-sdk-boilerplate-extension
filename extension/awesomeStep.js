@@ -1,3 +1,3 @@
-module.exports = function (context, input, cb) {
+module.exports = async (context, input) => {
   // Put your own code here
 }
