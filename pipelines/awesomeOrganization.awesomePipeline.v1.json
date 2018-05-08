@@ -1,7 +1,7 @@
 {
   "version": "1",
   "pipeline": {
-    "id": "awesomeOrganization.awesomePipeline",
+    "id": "awesomeOrganization.awesomePipeline.v1",
     "public": true,
     "input": [],
     "output": [],
