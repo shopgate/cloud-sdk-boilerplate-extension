@@ -10,12 +10,11 @@
     "coverage:watch": "npm run coverage -- --watch"
   },
   "devDependencies": {
-    "@shopgate/eslint-config": "^5.2.0",
-    "@shopgate/pwa-common": "^5.2.0",
-    "@shopgate/pwa-common-commerce": "^5.2.0",
-    "@shopgate/pwa-core": "^5.2.0",
-    "@shopgate/pwa-unit-test": "^5.2.0",
-    "@shopgate/react-hammerjs": "^0.5.8",
+    "@shopgate/eslint-config": "latest",
+    "@shopgate/pwa-common": "latest",
+    "@shopgate/pwa-common-commerce": "latest",
+    "@shopgate/pwa-core": "latest",
+    "@shopgate/pwa-unit-test": "latest",
     "babel-core": "^6.26.0",
     "babel-plugin-react-transform": "^3.0.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
@@ -26,8 +25,8 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "prop-types": "^15.6.0",
-    "react": "~16.3.2",
-    "react-dom": "~16.3.2",
+    "react": "~16.6.0",
+    "react-dom": "~16.6.0",
     "react-hot-loader": "4.0.1",
     "react-transform-catch-errors": "^1.0.2",
     "redbox-react": "^1.5.0"
