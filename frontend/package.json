@@ -19,8 +19,8 @@
     "eslint": "~5.12.0",
     "jest": "^24.8.0",
     "prop-types": "^15.6.0",
-    "react": "~16.8.4",
-    "react-dom": "~16.8.4"
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   },
   "peerDependencies": {
     "@shopgate/pwa-common": "^6.7.1"
