@@ -1,0 +1,9 @@
+{
+  "awesomeExtension": {
+    "banner": {
+      "title": "Hello from your extension",
+      "text": "This banner comes from frontend/portals/AwesomeBanner. Replace it with your own components.",
+      "dismiss": "Got it"
+    }
+  }
+}

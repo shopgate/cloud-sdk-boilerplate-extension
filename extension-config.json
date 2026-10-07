@@ -2,7 +2,19 @@
   "version": "1.0.0",
   "id": "@awesomeOrganization/awesomeExtension",
   "components": [
+    {
+      "id": "AwesomeBanner",
+      "path": "frontend/portals/AwesomeBanner",
+      "target": [
+        "product.header.after"
+      ],
+      "type": "portals"
+    },
+    {
+      "id": "locale/en-US",
+      "path": "frontend/locale/en-US.json",
+      "type": "translations"
+    }
   ],
-  "configuration": {
-  }
+  "configuration": {}
 }
